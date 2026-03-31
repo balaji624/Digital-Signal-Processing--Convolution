@@ -69,7 +69,8 @@ title('linear convolution');
 
 
 ## RESULT:
-![IMG_20260331_205436](https://github.com/user-attachments/assets/5e36ec3d-8b48-4a73-84ad-37b13f7b9519)
+![IMG_20260331_210044](https://github.com/user-attachments/assets/41aa446e-b375-41e4-a105-5e28980ed22e)
+
 
 
 
