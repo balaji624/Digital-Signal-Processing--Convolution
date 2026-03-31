@@ -69,5 +69,6 @@ title('linear convolution');
 
 
 ## RESULT:
-The linear Convolution of Signal is y[n]={6,2,-2.4,23.95,-5,29.89,15.57,0.9,15.2,-18.8,37.6,10.1,35,19,-3,-2}
+![IMG_20260331_205436](https://github.com/user-attachments/assets/bbe7a0f0-cd75-43a8-becf-16a62024e3c6)
+
 
